@@ -8,7 +8,7 @@ Let’s make a McMaster-Carr for 🪴house plants🪴.
 
 # Data
 
-As our data source, we’ll use the ~400 indoor plants from the public Perenual database. However, since the querying capability of their API isn’t advanced enough for us, we’ve provided the JSON here in this repo.
+As our data source, we’ve pulled ~150 indoor plants from the public [Perenual database](https://www.perennials.com/). They're available in the `plants.jsonl` file.
 
 # Goal
 
